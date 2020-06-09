@@ -24,4 +24,6 @@ We fixed [this](https://github.com/goosesnest/the-pond/issues/7) and [this](http
 
 **Auto Code Review Assignments**
 
-Test #1
+Test #1 - Fail because of CODEOWNERS
+
+Test #2
