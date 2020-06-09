@@ -15,9 +15,10 @@ jobs:
           --data '{
           "name": "code-coverage",
           "head_sha": "ed74cde7c5610864ff8307bdc2c60e126629ba61",
-          "status": "in_progress",
+          "status": "completed",
+          "conclusion": "neutral",
           "output": {
-              "title": "Check me out baby",
+              "title": "Put it in Neutral",
               "summary": "",
               "text": ""
           }'
